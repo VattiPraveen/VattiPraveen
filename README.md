@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m @VattiPraveen
 - 🎓 I received my masters’s degree in Information Security from NIT Karnataka.
 - 👀 I’m interested in Blockchain technology and its applications, Information & Network Security, ML and AI.
-- 🌱 I’m currently learning Javascript, Solidity and Rust.
+- 🌱 I’m currently learning Javascript, Solidity and Go.
 - 📫 How to reach me:
       eMail - vattipraven565@gmail.com
 
